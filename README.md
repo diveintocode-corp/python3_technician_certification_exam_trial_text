@@ -1,0 +1,2 @@
+# python3_technician_certification_exam_trial_text
+Python3 エンジニア認定基礎試験の公認対策講座の体験クラス用テキストです
